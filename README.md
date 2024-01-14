@@ -18,7 +18,7 @@
 
 ### Resutados
 
-![](C:\Users\Daniel\Documents\Cursos\Cibersegurança\cibersecurity-desafio-phishing\desafio-phishing.png)
+![alt text](./desafio-phishing.png)
 
 
 
